@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472210151276",
+    "firebase_url": "https://giro-kab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "giro-kab",
+    "storage_bucket": "giro-kab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472210151276:android:42ca415b9d541def064549",
+        "android_client_info": {
+          "package_name": "com.girokab.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472210151276-dtm3tcsb1ek07qu0pt8bkk76h9ud72ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMk_EK7bDG7PtlmJ2m-fS4-76c3PPoZKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472210151276-dtm3tcsb1ek07qu0pt8bkk76h9ud72ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
